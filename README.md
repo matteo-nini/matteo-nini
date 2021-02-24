@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div align="center">
+  ![Hi](assets/logo.gif)
+</div>
 <!--
 **matteo-nini/matteo-nini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
