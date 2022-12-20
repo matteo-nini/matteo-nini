@@ -6,12 +6,13 @@
 </div>
   
   ```javascript
-    const MattewDev = {
+  const MattewDev = {
     name: "Matteo",
     surname: "Nini",
     birthDay: "07/08/1995",
     birthPlace: "Pontendera (PI), Italy",
   };
+  
   Object.assign(MatteDev, {
     age: "27",
     skills: ["HTML", "CSS/SCSS", "Javascript", "PHP", "Node.js", "MySQL"],
